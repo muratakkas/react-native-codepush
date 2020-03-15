@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">codepushapp</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">6Ra3p_6mjlAzfq1Nfo3x2fPdOj62pL3P6lerW</string>
+</resources>
